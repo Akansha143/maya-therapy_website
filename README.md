@@ -1,7 +1,6 @@
 # Dr. Maya Reynolds Therapy Website
 
-A professional, responsive therapy website built with Next.js 15, TypeScript, and Tailwind CSS 4.0. This project was created as part of the Grow My Therapy internship assignment.
-
+A professional, responsive therapy website built with Next.js 15, TypeScript, and Tailwind CSS 4.0.
 ## 🌟 Features
 
 - **Responsive Design**: Fully mobile-optimized across all devices
